@@ -6,7 +6,7 @@ title: "About"
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/about.JPG" alt="About" style="width: 300px; border-radius: 8px;" />
   <div>
-    <p>Started working in the software industry in Sep '22 as an intern to now calling it my profession, I still get the same rush every time something I build actually works.</p>
+    <p>Started working in the software industry in Sep '22 as an intern to now calling it my profession, I still get the same rush when something I build actually works.</p>
     <p>Finding opportunities to learn and grow every day.</p>
     <p>Grew up loving and still LOVE to play sports.</p>
     <p>Based in Victoria, BC, Canada 📍</p>
