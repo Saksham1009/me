@@ -37,8 +37,11 @@ The possibilities with a platform like this are unlimited but helping people con
 
 MatchPlay!
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline width="100%" style="display:block; max-width:100%; height:auto;">
   <source src="/videos/cricket.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
 </video>
+
+(Apologies for video quality 🙏)
 
 ...
