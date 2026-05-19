@@ -35,7 +35,7 @@ There are markers for both the statements I made above:
 
 The possibilities with a platform like this are unlimited but helping people connect and be active in the process is something I want to solve for myself and the world.
 
-MatchPlay!
+MatchPlay! Coming soon...
 
 <video autoplay loop muted playsinline width="100%" style="display:block; max-width:100%; height:auto;">
   <source src="/videos/cricket.mp4" type="video/mp4" />
