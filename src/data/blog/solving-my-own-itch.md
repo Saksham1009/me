@@ -15,8 +15,8 @@ Ever since I was a kid, I loved playing sports. Be it football, cricket (I grew 
 
 Even today, as a 22 year old guy with a full time job, I wait for 8pm eagerly everyday to meet my friends and play!
 
-![Badminton](../../assets/images/current_badminton.PNG)
-![Pickleball](../../assets/images/current_pickleball.PNG)
+![Badminton](../../assets/images/current_badminton.jpg)
+![Pickleball](../../assets/images/current_pickleball.jpg)
 
 While talking to a friend, I discussed how going to the gym was not as fun for me as it was to go out and play, he pointed out that it might be because I love socializing more than playing. Even though I did not agree, this was definitely some food for thought. Do I really like to meet people to socialize and sport is just a medium (or excuse) for it?
 
@@ -35,7 +35,7 @@ There are markers for both the statements I made above:
 
 The possibilities with a platform like this are unlimited but helping people connect and be active in the process is something I want to solve for myself and the world.
 
-Let's MatchPlay!
+MatchPlay!
 
 <video autoplay loop muted playsinline width="100%">
   <source src="/videos/cricket.mp4" type="video/mp4" />
