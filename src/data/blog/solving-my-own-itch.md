@@ -22,16 +22,16 @@ While talking to a friend, I discussed how going to the gym was not as fun for m
 
 When I thought about it a little more, it seemed to be a real thing; I love to play sports and meet new people. Probably also a reason why I have enjoyed playing team sports predominantly because of the social factor that comes into play!
 
-There have to be more people thinking about the same thing, wanting to play a sport of their choice and wanting to meet new people via it. There are two different problems around this as I see:
+There have to be more people thinking about the same thing, wanting to play a sport of their choice and wanting to meet new people in the process. There are two different problems around this as I see:
 
 1) Helping people who want to play the same sport, around the same location, at the same time connect with each other
 2) Helping people book facilities around them to play
 
-Both of these issues stem from my own life, wanting to play sports but not having enough people or a place to play at. Moving towards an increasing health aware population in the world that is more disconnected in reality, this seems to be an obvious move!
+Both of these issues stem from my own life, wanting to play sports but not having enough people or a place to play at. Moving towards an increasingly health aware population in the world that is more disconnected in reality, this seems to be an obvious move!
 
 There are markers for both the statements I made above:
-1) **Increasing Health aware population**: Increase in the adoption of health trackers like whoop and now Google fitbit air
-2) **Disconnected in reality population**: Increase in digital media consumption, increase in AI as a companion adoption
+1) **"Increasingly Health aware" population**: Increase in the adoption of health trackers like whoop and now Google fitbit air
+2) **"Disconnected in reality" population**: Increase in digital media consumption, increase in AI as a companion adoption
 
 The possibilities with a platform like this are unlimited but helping people connect and be active in the process is something I want to solve for myself and the world.
 
